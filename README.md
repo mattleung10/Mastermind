@@ -4,7 +4,7 @@ Mastermind, made with Turing.
 
 <img src="https://github.com/mattleung10/Mastermind/blob/master/Images/examples/Mastermind1.png" alt="" height="322" width="450"/>
 
-## Installation
+## To Play
 Download all the files, and run the `Main.t` file. No other packages are required.
 
 ## Game Instructions
@@ -13,7 +13,7 @@ Mastermind is a code-breaking strategy game. The objective of the game is to gue
 
 <img src="https://github.com/mattleung10/Mastermind/blob/master/Images/examples/Mastermind2.png" alt="" height="489" width="432"/>
 
-### To Play
+### Play
 - Click on the colour palette to select 1 of the 8 possible colours.
 - Then, click on a circle to input your guess.
 - Start by inputting your answer on the bottom row.
