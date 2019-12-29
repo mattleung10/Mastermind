@@ -1,0 +1,13 @@
+INSTRUCTIONS
+
+Mastermind is a code-breaking strategy game.
+The objective of the game is to guess a code comprised of 4 different colours.
+You will have 12 tries to guess the correct code; order must also be correct.
+
+Click on the colour palette to select 1 of the 8 possible colours.
+Then, click on a circle to input your guess.
+Start by inputting your answer on the bottom row.
+Once you have chosen your 4 colours, click on the "Check" button to check your answer.
+Key pegs will then be displayed to help you guess the correct code.
+Each red peg means that you have guessed one correct colour, and it is in the right position. 
+Each white peg means that you have guessed one correct colour, but it is not in the right position.
